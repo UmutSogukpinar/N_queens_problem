@@ -1,5 +1,5 @@
 #include <unistd.h>
-#define BOARD_SIZE 5
+#define BOARD_SIZE N
 
 
 void ft_putchar(char c)
