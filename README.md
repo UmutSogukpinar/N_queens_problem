@@ -13,7 +13,7 @@ Note: If you change value of BOARD_SIZE macro, you can see all possible solution
 Clone the repository
 
 ```bash
-    git clone https://github.com/UmutSogukpinar/my_libft.git
+    git clone https://github.com/UmutSogukpinar/N_queens_problem.git
 ```
 
 To compile:
